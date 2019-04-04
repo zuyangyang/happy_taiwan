@@ -23,28 +23,43 @@
 # 行程 （TBD）
 
 ## 4/27周六 北京（13：55首都T3） - 台北(17:05桃园T2)
-## 4/28周日 台北
-* 景点：淡水老街,饶河街夜市
+## 4/28周日 台北 
+* 景点：淡水老街,饶河街夜市，西门町，故宫博物院，101大楼，中正纪念堂，国立台湾大学，阳明山公园
+* 台北参考：http://www.mafengwo.cn/jd/10819/gonglve.html
 
 ## 4/29周一 台北 - 台中
-### 清境农场 （过夜）
+
+* 景点：高美湿地，逢甲夜市，清境农场
+* 台中参考： http://www.mafengwo.cn/jd/16405/gonglve.html
+
+## 4/30周二 台中 - 清境农场
+
 * http://wenzhang.16fan.com/a/143094.html 
 * http://www.daoduoduo.com/thread-94037-1-1.html
 
-* 景点：高美湿地，逢甲夜市，清境农场
+## 5/1周三 清境农场 - 高雄 - 台东 
 
-## 4/30周二 台中 - 高雄
+* 景点：高雄（六合夜市 或 瑞丰夜市）台东（伯朗大道，池上饭包文化故事馆，多良车站，关山）
+* 台东参考：http://www.mafengwo.cn/jd/25340/gonglve.html
 
-* 景点：六合夜市 或 瑞丰夜市
-
-## 5/1周三 高雄 - 台东 - 绿岛
-### 绿岛 （过夜）
+## 5/2 周四 台东 - 绿岛
 * 景点： 绿岛：朝日温泉看日落，梅花鹿，潜水，电瓶车环岛
-## 5/2周四 绿岛 - 台东 - 花莲
+
+## 5/3 周五 绿岛 - 台东 - 花莲
 景点： 东门大夜市，出海看鲸豚，太鲁阁线
+花莲参考：http://www.mafengwo.cn/jd/15325/gonglve.html
 
-## 5/3周五 花莲 - 台北
-
-## 5/4周六 台北
-
+## 5/4 周六 花莲 - 台北
 ## 5/5周日 台北（15：20桃园T2） - 北京(18：35首都T3)
+
+## 行程图
+![avatar](https://github.com/zuyangyang/happy_taiwan/blob/master/WechatIMG70%E5%85%A8.png)
+
+# 交通
+## 捷运每个城市单独查
+## 台铁路线图
+![avatar](http://static.taiwandao.tw//uploads/images/20151216/1450244471375390.jpg)
+## 高铁路线图
+![avatar](https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=d1278d8963061d95694b3f6a1a9d61b4/0b46f21fbe096b638e02aae101338744ebf8ac6c.jpg)
+
+
