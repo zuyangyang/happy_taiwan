@@ -24,17 +24,17 @@
 * 游玩景点: 饶河街夜市
 搭「板南线」，在「後山埤站」下车 || 计程车
 * 备选：101大楼夜景，小巨蛋体育馆，宁夏夜市，师大夜市，士林夜市
-* 住宿：https://www.airbnb.cn/rooms/33416318 台灣桃園機場己有機場快速捷運~可以抵達台北車站再轉捷運到西門站六號出口（入住时间 15:00后 · 退房时间 11:00）
+* 住宿：https://www.airbnb.cn/rooms/33416318 台灣桃園機場己有機場快速捷運~可以抵達台北車站再轉捷運到西門站六號出口（入住时间 15:00后 · 退房时间 11:00） (No. 108 Emei Street 68号 万华区 台北市)
 
 ## 4/28周日 台北 
 * 景点：淡水老街,饶河街夜市，西门町，故宫博物院，101大楼，中正纪念堂，国立台湾大学，阳明山公园
 * 台北参考：http://www.mafengwo.cn/jd/10819/gonglve.html
-* 住宿：https://www.airbnb.cn/rooms/33416318 捷運到西門站六號出口（ 退房时间 11:00 )
+* 住宿：https://www.airbnb.cn/rooms/33416318 捷運到西門站六號出口（ 退房时间 11:00 ) (No. 108 Emei Street 68号 万华区 台北市)
 
 ## 4/29周一 台北 - 花莲
 * 搭乘台铁至花莲2小时，http://taitie.taiwandao.tw/index/search/?startStation=%E5%8F%B0%E5%8C%97&stopStation=%E8%8A%B1%E8%8E%B2&searchDate=2019-04-29&searchTime=6%3A00&fromAndDesc=from
 ![avatar](https://github.com/zuyangyang/happy_taiwan/blob/master/%E5%8F%B0%E5%8C%97%E5%88%B0%E8%8A%B1%E8%8E%B2.png)
-* 住宿： https://www.airbnb.cn/rooms/25159144  (入住时间 14:00后 · 退房时间 12:00)
+* 住宿： https://www.airbnb.cn/rooms/25159144  (入住时间 14:00后 · 退房时间 12:00) （花莲市林森路273巷）
 
 * 景点：太鲁阁公园，七星潭，清水断崖，瑞穗牧场，石梯坪
 东门大夜市，出海看鲸豚
@@ -59,14 +59,14 @@
 ## 5/3 周五 绿岛 - 台东
 * 搭船50分钟，中午到台东：https://bus.ctrip.com/ship/list.html?from=%E7%BB%BF%E5%B2%9B&to=%E5%8F%B0%E4%B8%9C&date=2019-05-03
 * 台东景点参考：http://www.mafengwo.cn/jd/25340/gonglve.html
-* 住宿：https://www.airbnb.cn/rooms/8906559 (15:00后可以随时入住，11:00前退房)
+* 住宿：https://www.airbnb.cn/rooms/8906559 (15:00后可以随时入住，11:00前退房) （中兴路三段23巷33弄8号）
 
 ## 5/4 周六 台东 - 台北
 * 搭乘台铁4-5小时：http://taitie.taiwandao.tw/index/search/?startStation=%E5%8F%B0%E4%B8%9C&stopStation=%E5%8F%B0%E5%8C%97&searchDate=2019-05-04&searchTime=6%3A00&fromAndDesc=from
 
 可简单逛逛，买买东西
 
-* 住宿：https://www.airbnb.cn/rooms/28139167 捷運石牌旁 (入住时间 15:00后 · 退房时间 10:00)
+* 住宿：https://www.airbnb.cn/rooms/28139167 捷運石牌旁 (入住时间 15:00后 · 退房时间 10:00) （No. 112, zhiyuan 2nd Road, 北投区，台北市）
 
 ## 5/5周日 台北（15：20桃园T2） - 北京(18：35首都T3)
 搭乘捷运到桃园T2
