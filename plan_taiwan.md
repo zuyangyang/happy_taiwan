@@ -33,7 +33,7 @@
 
 ## 4/29周一 台北 - 花莲
 * 搭乘台铁至花莲2小时，http://taitie.taiwandao.tw/index/search/?startStation=%E5%8F%B0%E5%8C%97&stopStation=%E8%8A%B1%E8%8E%B2&searchDate=2019-04-29&searchTime=6%3A00&fromAndDesc=from
-![avatar](https://github.com/zuyangyang/happy_taiwan/blob/master/%E5%8F%B0%E5%8C%97%E5%88%B0%E8%8A%B1%E8%8E%B2.png)
+![avatar](https://github.com/zuyangyang/happy_taiwan/blob/master/taibei-hualian.jpg)
 * 住宿： https://www.airbnb.cn/rooms/25159144  (入住时间 14:00后 · 退房时间 12:00) （花莲市林森路273巷）
 
 * 景点：太鲁阁公园，七星潭，清水断崖，瑞穗牧场，石梯坪
@@ -48,6 +48,8 @@
 * 搭乘台铁至台东大概2-3小时，车次很多： http://taitie.taiwandao.tw/index/search/?startStation=%E8%8A%B1%E8%8E%B2&stopStation=%E5%8F%B0%E4%B8%9C&searchDate=2019-05-01&searchTime=6%3A00&fromAndDesc=from
 * 搭船台东到绿岛50分钟：https://bus.ctrip.com/ship/list.html?from=%E5%8F%B0%E4%B8%9C&to=%E7%BB%BF%E5%B2%9B&date=2019-05-01
 ![avatar](https://github.com/zuyangyang/happy_taiwan/blob/master/%E5%8F%B0%E4%B8%9C%E5%88%B0%E7%BB%BF%E5%B2%9B.png)
+![avatar](https://github.com/zuyangyang/happy_taiwan/blob/master/huanlian-taidong.png)
+
 
 * 景点：伯朗大道，池上饭包文化故事馆，多良车站，关山
 * 台东参考：http://www.mafengwo.cn/jd/25340/gonglve.html
@@ -63,6 +65,7 @@
 
 ## 5/4 周六 台东 - 台北
 * 搭乘台铁4-5小时：http://taitie.taiwandao.tw/index/search/?startStation=%E5%8F%B0%E4%B8%9C&stopStation=%E5%8F%B0%E5%8C%97&searchDate=2019-05-04&searchTime=6%3A00&fromAndDesc=from
+![avatar](https://github.com/zuyangyang/happy_taiwan/blob/master/taidong-taibei.png)
 
 可简单逛逛，买买东西
 
