@@ -47,8 +47,14 @@
 ## 5/1周三 花莲 - 台东 - 绿岛
 * 搭乘台铁至台东大概2-3小时，车次很多： http://taitie.taiwandao.tw/index/search/?startStation=%E8%8A%B1%E8%8E%B2&stopStation=%E5%8F%B0%E4%B8%9C&searchDate=2019-05-01&searchTime=6%3A00&fromAndDesc=from
 * 搭船台东到绿岛50分钟：https://bus.ctrip.com/ship/list.html?from=%E5%8F%B0%E4%B8%9C&to=%E7%BB%BF%E5%B2%9B&date=2019-05-01
-![avatar](https://github.com/zuyangyang/happy_taiwan/blob/master/%E5%8F%B0%E4%B8%9C%E5%88%B0%E7%BB%BF%E5%B2%9B.png)
 ![avatar](https://github.com/zuyangyang/happy_taiwan/blob/master/huanlian-taidong.png)
+![avatar](https://github.com/zuyangyang/happy_taiwan/blob/master/lianqing.jpeg)
+* 住宿为NT3200套餐
+* 船票：2019-05-01 11:30（台东至绿岛）  2019-05-03 12:30（绿岛至台东）
+ 抵达绿岛后往出口方向移动，民宿位于港口左侧，请找联庆爱潜水办理进房手续。
+【简易路径】
+离自己最近火车站>台东火车站>富冈码头（这段路打车约15分钟250-300元）>码头取票抵达绿岛>到民宿
+
 
 
 * 景点：伯朗大道，池上饭包文化故事馆，多良车站，关山
